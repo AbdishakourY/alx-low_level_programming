@@ -5,7 +5,7 @@
  *
  * Description: main function
  * This program prints out what is inside the puts brackets
- * return: (0)
+ * return: Always 0 (Successful)
  */
 int main(void)
 {
