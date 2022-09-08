@@ -3,7 +3,7 @@
 /**
  * main-print the string in the put function
  *
- * Using main function
+ * Description: main function
  * This program prints out what is inside the puts brackets
  * return: 0
  */
