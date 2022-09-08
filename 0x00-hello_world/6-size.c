@@ -1,4 +1,4 @@
-#include<stdio/.>
+#include<stdio.h>
 /**
  * main-prints the size of many var types
  *
@@ -6,6 +6,7 @@
  */
 int main(void)
 {
+
 char a;
 int b;
 long int c;
