@@ -3,9 +3,9 @@
 /**
  * main-print the string in the put function
  *
- * Description: main function
- * This program prints out what is inside the puts brackets
- * return: Always 0 (Successful)
+ * Description: using the main function
+ * This program prints "Programming is like building a multilingual puzzle
+ * Return: Always 0 (Successful)
  */
 int main(void)
 {
